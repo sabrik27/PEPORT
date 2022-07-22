@@ -1,0 +1,193 @@
+body{
+  width: 1500px;
+  display: block;
+ }
+  header{
+    width: 1500px;
+    height: 100px;
+  }
+  .logo-modsen{
+float: left;
+padding-left: 22px;
+padding-top: 33px;
+padding-bottom: 33.14px;
+
+  }
+
+  .logo_PSU{
+float: right;
+padding-top: 23px;
+padding-bottom: 34.56px;
+
+  }
+  .Hexs{
+    position	: relative;
+  }
+  .colortext{
+    color: #F17900;
+  }
+  h1{ 
+  position	: absolute;
+	top		: 155px;
+	left		: 0;
+	width		: 80%;
+  font-size: 73px;
+  text-align: center;
+  margin-left: 170px;
+  }
+
+ .container{
+  padding-top: 26px;
+ }
+
+ .avatar {
+  position	: absolute;
+  top		: 450px;
+  width: 215px;
+  height: 215px;
+  border-radius: 50%;
+  display: block;
+  margin-left: 640px;
+  margin-right: auto;
+}
+
+.name_av {
+  position: absolute;
+  width: 264px;
+  height: auto;
+  margin-left: 630px;
+  top: 705px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  text-align: center;
+  white-space:nowrap;
+}
+
+h2{
+  position: absolute;
+  width: 1027px;
+  height: 84px;
+  left: 270px;
+  top: 873px;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  text-align: center;
+  color: #2C3144;
+}
+
+.beta{
+  position	: absolute;
+  top		: 952px;
+  left: 630px;
+ 
+}
+.beta1{
+  position	: absolute;
+  top		: 952px;
+  left: 730px;
+ 
+}
+.beta2{
+  position	: absolute;
+  top		: 952px;
+  left: 830px;
+ 
+}
+
+.HTMLAcademy{
+  padding-left: 30px;
+  margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+.HTMLAcademy1{
+  padding-left: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.HTMLAcademy2{
+  padding-left: 30px;
+  margin-left: auto;
+margin-right: auto;
+display: block;
+}
+.HTMLAcademy_main{
+ 
+  padding-top: 430px;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+}
+.screen{
+  padding-left: 30px;
+  padding-top: 52px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+  
+  
+h3{
+  
+  position: absolute;
+  top: 1320px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  text-align: center;
+  padding-left:200px;
+  color: #2C3144;
+  
+}
+.beta21_main{
+ 
+  padding-top: 680px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  }
+.beta21{
+  position	: absolute;
+  top		: 1410px;
+  left: 630px;
+}
+
+.beta22{
+  position	: absolute;
+  top		: 1410px;
+  left: 730px;
+}
+.beta23{
+  position	: absolute;
+  top		: 1410px;
+  left: 830px;
+}
+.Ghost{
+  
+  position	: absolute;
+  top		: 1470px;
+  left: 610px;
+
+}
+.git{
+
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+.Text{
+  position	: absolute;
+  top		: 1500px;
+  left: 590px;
+}

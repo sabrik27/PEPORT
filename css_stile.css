@@ -2,8 +2,8 @@ body{
   width: 1500px;
   display: block;
  }
-  header{
-   
+   header{
+    display: block;
     width: 1500px;
     height: 100px;
     border-bottom-width: 2px;
@@ -11,13 +11,13 @@ body{
     border-bottom-color: grey;
     margin-bottom: 0px;
     box-shadow: 0px 2px 4px rgb(38 50 56 / 16%);
-   
   }
   .logo-modsen{
-float: left;
-padding-left: 22px;
-padding-top: 33px;
-padding-bottom: 33.14px;
+    padding-left: 22px;
+    float: left;
+    padding-top: 33px;
+    display: flex;
+
 
   }
 
